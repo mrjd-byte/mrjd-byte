@@ -1,3 +1,6 @@
+# 🚀 GitHub Space Shooter
+
+![My GitHub Space Shooter](game.gif)
 # 💫 About Me:
 ## 👋 About Me<br><br>Hi! I'm a passionate developer who enjoys building projects, learning new technologies, and turning ideas into useful applications.<br><br>💻 I love exploring software development and solving real-world problems through code.<br>🚀 Currently learning, experimenting, and improving my skills every day.<br>🛠️ Interested in building projects that are practical, creative, and impactful.<br>📚 Always curious about new technologies and better ways to write clean, efficient code.<br><br>🔧 What I Do<br><br>* Build and experiment with personal projects<br>* Learn new programming languages and technologies<br>* Solve problems and improve my coding skills<br>* Collaborate and contribute to open-source projects<br><br>🌱 Currently Learning<br><br>Exploring new technologies, development tools, and best practices to become a better developer.<br><br>> **Code. Learn. Build. Repeat. 🚀**<br>
 
