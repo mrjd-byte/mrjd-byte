@@ -3,13 +3,13 @@
 
 ---
 
-## Identity
 Turning ideas into code, one project at a time.  
 Code. Learn. Build. Repeat. 🚀
+currently: building · learning · experimenting
 
 ---
 
-## Tech
+## 🛠️ Loadout
 **LANGUAGES**  
 C · C++ · Java · JavaScript · TypeScript · Python
 
@@ -24,12 +24,4 @@ PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas
 
 ---
 
-## Telemetry
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mrjd-byte&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=false" alt="GitHub stats" />
-</p>
-
----
-
-## Contact
-<a href="https://linkedin.com/in/jaibhev-dhiman-a764b1326">LinkedIn ↗</a>
+find me outside the orbit → <a href="https://linkedin.com/in/jaibhev-dhiman-a764b1326">LinkedIn ↗</a>
