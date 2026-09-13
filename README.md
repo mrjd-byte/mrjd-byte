@@ -3,8 +3,13 @@
 
 ---
 
+## 👾 Player
 Turning ideas into code, one project at a time.  
 Code. Learn. Build. Repeat. 🚀
+
+---
+
+## 🎯 Current Mission
 currently: building · learning · experimenting
 
 ---
@@ -24,4 +29,10 @@ PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas
 
 ---
 
+## ⭐ Activity
+live score updates in the GitHub contribution graph.
+
+---
+
+## 🌌 Find Me
 find me outside the orbit → <a href="https://linkedin.com/in/jaibhev-dhiman-a764b1326">LinkedIn ↗</a>
