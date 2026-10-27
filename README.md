@@ -7,7 +7,7 @@
 <p>
   <a href="https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/">LinkedIn</a> |
   <a href="T.T">Website</a> |
-  <a href="mailto:jaibhevdhiman@gmail.com">Email</a> |
+  <a href="mailto:jaibhevdhiman@gmail.com">jaibhevdhiman@gmail.com</a> |
   <a href="https://leetcode.com/u/mrjd30/">LeetCode</a>
 </p>
 
