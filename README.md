@@ -1,8 +1,3 @@
-<p align="center"><img src="game.gif" alt="GitHub Space Shooter" /></p>
-<p align="center"><code>MRJD-BYTE</code> · pixel playground in orbit</p>
-
----
-
 # [Jaibhev Dhiman]
 
 ### Software Engineer • Backend • AI/ML • Systems • Architecture
@@ -18,3 +13,8 @@ Java · C · Python · JavaScript · React · Next.js · Node.js · FastAPI · P
 ### Currently
 
 Building system-level projects, exploring software architecture, and strengthening my understanding of computer science fundamentals through hands-on engineering.
+
+<p align="center"><img src="game.gif" alt="GitHub Space Shooter" /></p>
+<p align="center"><code>MRJD-BYTE</code> · pixel playground in orbit</p>
+
+---
