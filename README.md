@@ -3,36 +3,18 @@
 
 ---
 
-## 👾 Player
-Turning ideas into code, one project at a time.  
-Code. Learn. Build. Repeat. 🚀
+# [Jaibhev Dhiman]
 
----
+### Software Engineer • Backend • AI/ML • Systems • Architecture
 
-## 🎯 Current Mission
-currently: building · learning · experimenting
+[LinkedIn](https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/) | [Website](T.T) | [Email](jaibhevdhiman@gmail.com) | [LeetCode](https://leetcode.com/u/mrjd30/)
 
----
+I build real-world software and engineering-focused projects — exploring system internals, backend architecture, and the design decisions behind reliable, effective software.
 
-## 🛠️ Loadout
-**LANGUAGES**  
-C · C++ · Java · JavaScript · TypeScript · Python
+### Tech I Use
 
-**BUILD**  
-React · Next.js · Node.js · Django · FastAPI · Express
+Java · C · Python · JavaScript · React · Next.js · Node.js · FastAPI · PostgreSQL · MongoDB · Docker · Git
 
-**DATA**  
-MySQL · PostgreSQL · SQLite · MongoDB
+### Currently
 
-**AI / ML**  
-PyTorch · TensorFlow · Scikit-learn · NumPy · Pandas
-
----
-
-## ⭐ Activity
-live score updates in the GitHub contribution graph.
-
----
-
-## 🌌 Find Me
-find me outside the orbit → <a href="https://linkedin.com/in/jaibhev-dhiman-a764b1326">LinkedIn ↗</a>
+Building system-level projects, exploring software architecture, and strengthening my understanding of computer science fundamentals through hands-on engineering.
