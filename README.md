@@ -1,9 +1,15 @@
 <div align="center">
-# [Jaibhev Dhiman]
 
-### Software Engineer • Backend • AI/ML • Systems • Architecture
+<h1 align="center">Jaibhev Dhiman</h1>
 
-[LinkedIn](https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/) | [Website](T.T) | jaibhevdhiman@gmail.com | [LeetCode](https://leetcode.com/u/mrjd30/)
+<h3 align="center">Software Engineer • Backend • AI/ML • Systems • Architecture</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/">LinkedIn</a> |
+  <a href="T.T">Website</a> |
+  <a href="mailto:jaibhevdhiman@gmail.com">Email</a> |
+  <a href="https://leetcode.com/u/mrjd30/">LeetCode</a>
+</p>
 
 I build real-world software and engineering-focused projects — exploring system internals, backend architecture, and the design decisions behind reliable, effective software.
 
