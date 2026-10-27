@@ -1,8 +1,8 @@
-# [Jaibhev Dhiman]
+# Jaibhev Dhiman
 
 ### Software Engineer • Backend • AI/ML • Systems • Architecture
 
-[LinkedIn](https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/) | [Website](T.T) | [Email](jaibhevdhiman@gmail.com) | [LeetCode](https://leetcode.com/u/mrjd30/)
+[LinkedIn](https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/) | [Website](T.T) | (jaibhevdhiman@gmail.com) | [LeetCode](https://leetcode.com/u/mrjd30/)
 
 I build real-world software and engineering-focused projects — exploring system internals, backend architecture, and the design decisions behind reliable, effective software.
 
