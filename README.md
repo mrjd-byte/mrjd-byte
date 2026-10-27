@@ -1,26 +1,28 @@
-<div align="center">
+<!-- Header -->
+<img src="./header.svg" width="100%" alt="Introduction"/>
 
-<h1 align="center">Jaibhev Dhiman</h1>
+<br/>
 
-<h3 align="center">Software Engineer • Backend • AI/ML • Systems • Architecture</h3>
+<!-- About Me -->
+<img src="./about.svg" width="100%" alt="About Me"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/jaibhev-dhiman-a764b1326/">LinkedIn</a> |
-  <a href="T.T">Website</a> |
-  <a href="mailto:jaibhevdhiman@gmail.com">jaibhevdhiman@gmail.com</a> |
-  <a href="https://leetcode.com/u/mrjd30/">LeetCode</a>
+<br/>
+
+<!-- Tech Stack -->
+<img src="./skills.svg" width="100%" alt="Tech Stack"/>
+
+<br/>
+
+<!-- Contact -->
+<img src="./friendship.svg" width="100%" alt="Contact Me"/>
+
+<br/>
+
+<!-- Existing pixel-art game animation, if you want to keep it -->
+<p align="center">
+  <img src="./game.gif" width="100%" alt="GitHub Space Shooter"/>
 </p>
 
-I build real-world software and engineering-focused projects — exploring system internals, backend architecture, and the design decisions behind reliable, effective software.
-
-### Tech I Use
-
-Java · C · Python · JavaScript · React · Next.js · Node.js · FastAPI · PostgreSQL · MongoDB · Docker · Git
-
-### Currently
-
-Building system-level projects, exploring software architecture, and strengthening my understanding of computer science fundamentals through hands-on engineering.
-</div>
 <p align="center"><img src="game.gif" alt="GitHub Space Shooter" /></p>
 <p align="center"><code>MRJD-BYTE</code> · pixel playground in orbit</p>
 
