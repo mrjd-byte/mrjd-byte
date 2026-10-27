@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Contact -->
-<img src="./friendship.svg" width="100%" alt="Contact Me"/>
+<img src="./footer.svg" width="100%" alt="Contact Me"/>
 
 <br/>
 
@@ -22,8 +22,5 @@
 <p align="center">
   <img src="./game.gif" width="100%" alt="GitHub Space Shooter"/>
 </p>
-
-<p align="center"><img src="game.gif" alt="GitHub Space Shooter" /></p>
-<p align="center"><code>MRJD-BYTE</code> · pixel playground in orbit</p>
 
 ---
